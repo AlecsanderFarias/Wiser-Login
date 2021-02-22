@@ -1,5 +1,5 @@
 # Rodando o projeto de forma local
- 1 - após o clone do respósitorio execute pelo terminal na pasta do mesmo o comando "yarn" para baixar as dependencias
+ 1 - após o clone do respósitorio execute pelo terminal na pasta do mesmo o comando "yarn" para baixar as dependencias <br/>
  2 - Em seguida execute o comando "yarn start"
 
 
